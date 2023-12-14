@@ -1,0 +1,32 @@
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.csproj.AssemblyReference.cache
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.AssemblyInfoInputs.cache
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.AssemblyInfo.cs
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.csproj.CoreCompileInputs.cache
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\appsettings.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\API Key Auth.exe
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\API Key Auth.deps.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\API Key Auth.runtimeconfig.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\API Key Auth.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\API Key Auth.pdb
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets\msbuild.API Key Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets\msbuild.build.API Key Auth.props
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Key Auth.props
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Key Auth.props
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\scopedcss\bundle\API Key Auth.styles.css
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.csproj.CopyComplete
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\refint\API Key Auth.dll
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.pdb
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\API Key Auth.genruntimeconfig.cache
+C:\Users\Davyeedo\Documents\csharp\API Key Auth\API Key Auth\obj\Debug\net8.0\ref\API Key Auth.dll
